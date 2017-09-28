@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\ROOT\0x01_TYPE1_DATA-TYPES]
+"VALUE 0x00 (NONE)"     =-
+"VALUE 0x01 (SZ)"       =-
+"VALUE 0x02 (EXP_SZ)"   =-
+"VALUE 0x03 (BINARY)"   =-
+"VALUE 0x04 (DWORD-LE)" =-
+"VALUE 0x05 (DWORD-BE)" =-
+"VALUE 0x06 (LINK)"     =-
+"VALUE 0x07 (MULTI_SZ)" =-
+"VALUE 0x08 (RES_LIST)" =-
+"VALUE 0x09 (RES_DESC)" =-
+"VALUE 0x0A (REQ_LIST)" =-
+"VALUE 0x0B (QWORD-LE)" =-

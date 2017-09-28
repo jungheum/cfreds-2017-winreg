@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\ROOT\0x01_TYPE1_DATA-TYPES]
+"VALUE 0x01 (SZ)"       = "UTF-EEEE NULL-terminated string"
+"VALUE 0x03 (BINARY)"   = hex(3):62,69,EE,EE,EE,EE,20,64,61,74,61
+
